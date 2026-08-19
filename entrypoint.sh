@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Get the GitHub token and Giphy API key from GitHub Actions inputs
 GITHUB_TOKEN=$1
